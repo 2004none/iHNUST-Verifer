@@ -50,7 +50,7 @@ if __name__ == '__main__':
             exit(0)
 
         #        dic = {'username': '220504011', 'password': '2004110', 'ICP': '%40unicom'}
-        path = 'verify.txt'
+        path = 'verify'
 
         print("[Read User Infor]")
         try:
